@@ -1,0 +1,4 @@
+interface:
+  display_name: "Futu API Options"
+  short_description: "连接 Futu OpenD，读取期权链、行情快照与 Greeks"
+  default_prompt: "Use $futu-api-options to connect to Futu OpenD and retrieve an options chain, quote snapshot, and Greeks."
